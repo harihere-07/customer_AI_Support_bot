@@ -1,0 +1,10 @@
+#virtual environment
+slm_env/
+venv/
+
+#python cache
+__pycache__/
+*.__pyc
+
+#model cache
+.cache/
